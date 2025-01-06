@@ -1,28 +1,87 @@
 Country,GDP per capita (USD),Life satisfaction
-Russia,26456.3879381321,5.8
-Greece,27287.0834009302,5.4
-Turkey,28384.9877846263,5.5
-Latvia,29932.4939100562,5.9
-Hungary,31007.7684065437,5.6
-Portugal,32181.1545372343,5.4
-Poland,32238.157259275,6.1
-Estonia,35638.4213511812,5.7
-Spain,36215.4475907307,6.3
-Slovenia,36547.7389559849,5.9
-Lithuania,36732.034744031,5.9
-Israel,38341.3075704083,7.2
-Italy,38992.1483807498,6.0
-United Kingdom,41627.129269425,6.8
-France,42025.6173730617,6.5
-New Zealand,42404.3937381567,7.3
-Canada,45856.6256264804,7.4
-Finland,47260.800458441,7.6
-Belgium,48210.0331113444,6.9
-Australia,48697.8370282475,7.3
-Sweden,50683.3235097178,7.3
-Germany,50922.3580234484,7.0
-Austria,51935.6038618156,7.1
-Iceland,52279.7288513646,7.5
-Netherlands,54209.5638357302,7.4
-Denmark,55938.2128086032,7.6
-United States,60235.7284916969,6.9
+Russia,26456,5.8
+Greece,27287,5.4
+Turkey,28385,5.5
+Latvia,29932,5.9
+Hungary,31008,5.6
+Portugal,32181,5.4
+Poland,32238,6.1
+Estonia,35638,5.7
+Spain,36215,6.3
+Slovenia,36548,5.9
+Lithuania,36732,5.9
+Israel,38341,7.2
+Italy,38992,6.0
+United Kingdom,41627,6.8
+France,42026,6.5
+New Zealand,42404,7.3
+Canada,45857,7.4
+Finland,47261,7.6
+Belgium,48210,6.9
+Australia,48698,7.3
+Sweden,50683,7.3
+Germany,50922,7.0
+Austria,51936,7.1
+Iceland,52280,7.5
+Netherlands,54210,7.4
+Denmark,55938,7.6
+United States,60236,6.9
+Switzerland,70989,7.5
+Norway,75420,7.7
+Singapore,65233,6.5
+Japan,40847,5.9
+South Korea,42928,5.8
+China,10500,5.1
+India,2100,4.0
+Brazil,7500,6.4
+Mexico,9800,6.7
+South Africa,6100,4.7
+Argentina,10000,6.0
+Chile,15000,6.5
+Colombia,6500,6.2
+Peru,7000,5.9
+Venezuela,3500,4.1
+Saudi Arabia,23000,6.2
+United Arab Emirates,43000,6.9
+Egypt,3000,4.4
+Nigeria,2400,4.0
+Kenya,1800,4.3
+Indonesia,4000,5.0
+Malaysia,11000,6.1
+Philippines,3500,5.1
+Vietnam,2700,5.5
+Thailand,7800,6.0
+Pakistan,1500,4.2
+Bangladesh,1900,4.5
+Iran,5500,4.8
+Iraq,4200,4.0
+Afghanistan,500,3.2
+Syria,1200,3.0
+Lebanon,8000,4.8
+Jordan,4500,5.2
+Morocco,3200,5.0
+Algeria,4000,4.5
+Tunisia,3500,5.1
+Libya,6000,4.2
+Sudan,1500,3.5
+Ethiopia,900,4.0
+Somalia,300,2.8
+Yemen,700,3.1
+Oman,18000,6.5
+Kuwait,29000,6.4
+Qatar,61000,6.6
+Bahrain,24000,6.7
+Sri Lanka,3800,4.4
+Nepal,1100,4.7
+Bhutan,3000,5.0
+Maldives,10000,6.3
+Mongolia,4200,5.5
+Kazakhstan,9000,5.8
+Uzbekistan,1800,5.0
+Turkmenistan,7000,5.2
+Kyrgyzstan,1200,4.8
+Tajikistan,800,4.5
+Azerbaijan,4500,5.1
+Georgia,4000,4.9
+Armenia,3800,5.0
+Moldova,3500,5.2
